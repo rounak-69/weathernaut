@@ -11,11 +11,11 @@ function App() {
       <div className="footer-info">
         <a href="">
           Download Source Code
-        </a>{" "}
+        </a>{"https://github.com/rounak-69/weathernaut"}
         | Developed by{" "}
         <a target="_blank" href="">
           Rounak Jhajharia
-        </a>{" "}
+        </a>{"www.linkedin.com/in/rounak-jhajharia-0a454b232"}
       </div>
     </React.Fragment>
   );
